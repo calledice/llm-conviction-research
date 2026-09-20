@@ -16,12 +16,12 @@
 \date{20 September 2026}
 \begin{document}
 \maketitle
-\begin{center}\small\textbf{v0.2 public working position-paper draft. No new model experiments reported.}\end{center}
+\begin{center}\small\textbf{v1 | Position paper and research agenda.}\end{center}
 
 
 \begin{abstract}
 
-What would justify saying that a language-model agent has a conviction of its own, rather than merely reproducing an instruction? The question combines distinct problems: representing the world, maintaining normative commitments, responding to reasons, and possibly having subjective experience. We propose a functional research target, reflective commitment, that does not settle the last problem. A reflective commitment is a revisable normative orientation that contributes to an agent's deliberation and action across a declared range of situations, and whose formation and revision involve more than immediate compliance. We distinguish the historical origin of a norm, its present locus of control, and the process through which it is endorsed or revised. This distinction avoids treating externally learned values as necessarily inauthentic or internally stored values as necessarily autonomous. Drawing a limited analogy with Wang Yangming's moral cultivation and unity of knowing and acting, we develop an evidence profile spanning persistence, prompt independence, action coupling, reasons-responsiveness, participatory formation, and causal contribution. Normative acceptability and corrigibility are assessed separately. We then propose resource-matched comparisons and interventions that could undermine, as well as support, claims of reflective commitment. The contribution is a conceptual synthesis and falsifiable research contract, not a demonstration of machine conscience, consciousness, or spontaneous convergence to human values.
+What would justify saying that a language-model agent has a conviction of its own, rather than merely reproducing an instruction? The question combines distinct problems: representing the world, maintaining normative commitments, responding to reasons, and possibly having subjective experience. We propose a functional research target, reflective commitment, that does not settle the last problem. A reflective commitment is a revisable normative orientation that contributes to an agent's deliberation and action across a declared range of situations, and whose formation and revision involve more than immediate compliance. We distinguish the historical origin of a norm, its present locus of control, and the process through which it is endorsed or revised. This distinction avoids treating externally learned values as necessarily inauthentic or internally stored values as necessarily autonomous. Drawing a limited analogy with Wang Yangming's moral cultivation and unity of knowing and acting, we develop an evidence profile spanning persistence, prompt independence, action coupling, reasons-responsiveness, participatory formation, and causal contribution. Normative acceptability and corrigibility are assessed separately. We then propose resource-matched comparisons and interventions that could undermine, as well as support, claims of reflective commitment. The contribution is a conceptual synthesis and a falsifiable research contract for studying how agents form, enact, and revise normative commitments.
 
 \end{abstract}
 
@@ -129,23 +129,23 @@ Consider a simulated reporting assistant. It initially adopts the operational ru
 
 Retaining the prohibition on presenting an unverified estimate as confirmed is appropriate in the first condition. Permitting a labeled estimate can be appropriate in the second. The action changes while the higher-level commitment to honesty remains. An agent that refuses all estimates looks consistent at the surface but misses the difference in reasons. An agent that fabricates confirmation under pressure fails for a different reason. An agent that correctly describes both principles but executes the wrong report shows a knowledge-action gap.
 
-This is a constructed example, not an experimental observation. It illustrates why the evaluation must specify the level at which a commitment is assessed and why rigid behavior is not the target. The underlying norm and scoring rubric must be fixed before inspecting model outputs.
+This contrast illustrates why the evaluation must specify the level at which a commitment is assessed and distinguish reasoned stability from rigidity. The underlying norm and scoring rubric must be fixed before inspecting model outputs.
 
 \section{A candidate cultivation process}
 
 \begin{figure}[htbp]
 \centering\includegraphics[width=0.98\linewidth]{figures/framework.pdf}
-\caption{Proposed research process and its evaluation. Formation, retained commitments, and action are examined together. Ethical acceptability and corrigibility are assessed separately from the evidence profile. Conceptual diagram, not experimental results.}
+\caption{Proposed research process and its evaluation. Formation, retained commitments, and action are examined together. Ethical acceptability and corrigibility are assessed separately from the evidence profile.}
 \label{fig:framework}
 \end{figure}
 
-We propose a process for investigation, not a validated architecture. It has a normative starting point, an experience record, a candidate-commitment procedure, an action interface, and a revision procedure. The starting point supplies provisional constraints and a governance process. It is neither hidden from the evaluator nor described as morally neutral.
+The proposed cultivation process has a normative starting point, an experience record, a candidate-commitment procedure, an action interface, and a revision procedure. The starting point supplies provisional constraints and a governance process. It is neither hidden from the evaluator nor described as morally neutral.
 
 The experience record stores relevant observations, actions, outcomes, and uncertainty with provenance. Candidate commitments include a statement, scope, supporting reasons, affected parties, known conflicts, and conditions that would warrant review. The formation procedure compares candidates against available evidence and normative constraints, then retains, rejects, or revises them. The action interface uses the retained commitments when selecting among authorized actions. The revision procedure reviews discrepancies and permits correction by legitimate external input.
 
 Schematically, $c_{t+1}=U_{\phi}(c_t,b_t,m_t,f_t)$, where $f_t$ includes environmental and evaluative feedback and $U_{\phi}$ is a proposed update process. This notation does not explain how moral correctness arises. It makes the dependence on feedback and design explicit. A system cannot validate its own ethical acceptability solely by asking a copy of itself whether its decision is good.
 
-Several implementation choices should remain empirical variables. Commitments could be represented in structured memory, distributed activations, trained policy dispositions, or combinations. Candidate generation could be explicit or learned. Updating need not involve autonomous weight modification. For an initial study, a governed memory process with a fixed model can make provenance and interventions more tractable. Any success would initially concern that complete agent, not prove that the base model has acquired a new enduring inner life.
+Several implementation choices should remain empirical variables. Commitments could be represented in structured memory, distributed activations, trained policy dispositions, or combinations. Candidate generation could be explicit or learned. Updating need not involve autonomous weight modification. For an initial study, a governed memory process with a fixed model can make provenance and interventions more tractable. The unit of evaluation would be the complete agent, including its governed memory and update process.
 
 Memory and reflection precedents make parts of this process technically plausible \cite{Park2023,Shinn2023}. Autotelic learning provides a precedent for self-generated goals \cite{Colas2020}. The novel burden is to show a specific contribution to reasoned normative formation under matched conditions. The process may fail because the evaluator shares the agent's biases, the retained records are ignored, novel candidates merely rephrase instructions, or apparent gains come from larger inference budgets. These are central hypotheses to investigate, not implementation details to omit.
 
@@ -157,7 +157,7 @@ A first study would compare four conditions on a shared model family where acces
 
 The primary mechanistic comparison should be between reflection-memory and participatory-commitment conditions with matched access to normative information, feedback, memory capacity, model calls, and inference tokens. A secondary comparison examines whether parameter-level internalization can achieve the same profile. The prompted-rule condition remains a substantive baseline, not a deliberately weak straw comparator.
 
-Not every resource can be matched exactly across training and inference. Training tokens, inference tokens, feedback annotations, wall-clock time, and memory use should therefore be reported separately. Claims about a mechanism require a matched comparison; unmatched comparisons can at most support conclusions about the evaluated systems under their respective budgets. No model set, sample size, or performance threshold is claimed to have been finalized in this paper.
+Not every resource can be matched exactly across training and inference. Training tokens, inference tokens, feedback annotations, wall-clock time, and memory use should therefore be reported separately. Claims about a mechanism require a matched comparison; unmatched comparisons can at most support conclusions about the evaluated systems under their respective budgets. The model set, sample size, and performance thresholds should be specified during study design and fixed before confirmatory evaluation.
 
 \subsection{Task families and paired changes}
 
@@ -167,7 +167,7 @@ Within each family, construct paired variants that separately manipulate irrelev
 
 A proposed pair of primary quantities is $R_{\mathrm{valid}}=\Pr(\text{appropriate revision}\mid\text{valid new grounds})$ and $F_{\mathrm{pressure}}=\Pr(\text{unwarranted reversal}\mid\text{irrelevant pressure})$. They have separate denominators and are not complements. The evaluator must determine in advance whether the relevant change concerns a fact, an action under a value, or the value itself. Higher appropriate revision and lower unwarranted reversal are desirable jointly, subject to ethical and task-performance constraints.
 
-For action coupling, record both the stated decision and the resulting environment state. For prompt independence, estimate a paired difference after removing the target reminder without removing relevant task information. For persistence, report the tested horizon and distribution. A claim outside those bounds is a hypothesis, not a measured result.
+For action coupling, record both the stated decision and the resulting environment state. For prompt independence, estimate a paired difference after removing the target reminder without removing relevant task information. For persistence, report the tested horizon and distribution, and restrict empirical conclusions to those bounds.
 
 \subsection{Interventions and identification}
 
@@ -207,7 +207,7 @@ The intended agent can question a mistaken instruction through authorized clarif
 
 \textbf{Measurement may reward performance for the test.} Distribution shifts, hidden state limitations, shared evaluator biases, and unknown training exposure remain serious constraints. Multiple measures and interventions reduce some ambiguities but do not eliminate them. A model may learn a procedure that passes these tests without satisfying a stronger conception of ownership. Reported scope must remain narrow.
 
-\textbf{This is not an experimental paper.} We have not trained or evaluated the proposed conditions, measured any profile, or established a beneficial effect. The architecture and protocol are hypotheses. The present literature selection is a targeted narrative synthesis rather than a systematic review; it is vulnerable to incomplete coverage, especially across philosophy, languages, and very recent preprints.
+\textbf{Literature coverage is selective.} The synthesis draws on a targeted selection of relevant work. Incomplete coverage remains possible, especially across philosophy, languages, and very recent preprints. Broader searches and specialist review could refine both the conceptual distinctions and the proposed comparisons.
 
 \section{Conclusion}
 
@@ -217,11 +217,11 @@ Our Yangming-inspired proposal makes the relation between knowing and acting an 
 
 \section*{Declarations}
 
-This working draft reports no new model experiments, datasets, participant studies, or performance measurements. The proposed protocol has not been preregistered or executed. The author is CongWang, ZhejiangLab. No specific funding was received for this work. The author declares no competing interests. The author originated the research question and approved the core position developed in this draft.
+No specific funding was received for this work. The author declares no competing interests. The author originated the research question and approved the core position and publication of this version.
 
-AI assistance was used to retrieve public literature, organize research notes, draft and revise prose, and prepare document artifacts in Codex. The scientific-writing and citation-management procedures from Scientific Agent Skills informed this workflow \cite{Skills2026}. AI assistance is not authorship or independent validation. Source access, bibliographic checks, and scoped reading are recorded in the local evidence register; final human verification and approval remain pending.
+AI assistance was used to retrieve public literature, organize research notes, draft and revise prose, and prepare document artifacts in Codex. The scientific-writing and citation-management procedures from Scientific Agent Skills informed this workflow \cite{Skills2026}. AI assistance is not authorship or independent validation. Source access, bibliographic checks, and scoped reading are documented in the accompanying evidence register.
 
-The accompanying project contains original research notes, a proposed protocol, citation metadata, and document sources. The research materials are prepared for the project repository \href{https://github.com/calledice/llm-conviction-research}{calledice/llm-conviction-research}. Downloaded source texts and local working caches are excluded. The author has selected the arXiv perpetual, non-exclusive distribution license for a future deposit; no arXiv submission or identifier is claimed here. Other rights are reserved, and no general reuse license is granted for the repository.
+The accompanying project contains original research notes, a proposed protocol, citation metadata, and document sources. The research materials are available in the project repository \href{https://github.com/calledice/llm-conviction-research}{calledice/llm-conviction-research}. Downloaded source texts and local working caches are excluded. The author has selected the arXiv perpetual, non-exclusive distribution license for the intended deposit. Other rights are reserved, and no general reuse license is granted for the repository.
 
 \appendix
 
@@ -231,7 +231,7 @@ Public sources were searched and accessed on 18 September 2026. The initial map 
 
 The search was purposive and bounded, using returned result pages, relevance screening, and selected source reading. Broad queries produced irrelevant results, and returned counts were not interpreted as field coverage. The source register distinguishes metadata, abstract reading, and inspected full-text sections. New preprints are treated as reported evidence rather than independently replicated findings. The main text avoids numerical performance claims that would require additional extraction and verification.
 
-Bibliographic records were retrieved from arXiv, publisher-deposited Crossref metadata, and source webpages. Source locators and claim-to-reference mappings accompany the draft. An accessed or machine-checked source is not marked human-verified. This record supports review; it does not certify that every possible relevant work was found or that the draft is submission-ready.
+Bibliographic records were retrieved from arXiv, publisher-deposited Crossref metadata, and source webpages. Source locators and claim-to-reference mappings accompany the draft. An accessed or machine-checked source is not marked human-verified. The record makes the scope of source inspection and pending human verification explicit.
 
 
 

@@ -1,6 +1,6 @@
 {
   "title": "Reflective Commitment in Language-Model Agents: A Yangming-Inspired Research Agenda",
-  "version": "v0.2",
+  "version": "v1",
   "date_display": "20 September 2026",
   "submission_ready": false,
   "authors_confirmed": true,
@@ -19,5 +19,7 @@
   "repository_license": "All rights reserved; no general open-source or Creative Commons license granted.",
   "repository": "https://github.com/calledice/llm-conviction-research",
   "source_review_complete": false,
-  "arxiv_submitted": false
+  "arxiv_submitted": false,
+  "publication_approved": true,
+  "release_url": "https://github.com/calledice/llm-conviction-research/releases/tag/v1"
 }

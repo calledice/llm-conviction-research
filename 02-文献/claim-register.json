@@ -8,14 +8,14 @@
   },
   {
     "paragraph": 3,
-    "sha256": "c05289f1d8e4cb185509720fa6d451430384752836e5d0d23e07e7c0550e9d4b",
+    "sha256": "3239a57f982dd3188cdce954034da00f813b004a90ab1dcb5793d321bb667a8e",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false
   },
   {
     "paragraph": 5,
-    "sha256": "55fc943ff2faafcb9daf3badbe69194eccb3ac81c0d46131eaa8d823368d9cf8",
+    "sha256": "9fabc0317f117468549956a7096412cca8023d6839da84ae12294a6b50bb744a",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false
@@ -341,14 +341,14 @@
   },
   {
     "paragraph": 58,
-    "sha256": "fa0aacc15f5c5884851cba36a2ce477da2960511c4b9947a87aa49cd1b9baec8",
+    "sha256": "3b60e18b3f852cea387360aa14d0784828d617f7476a831acb4b1eea36413678",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false
   },
   {
     "paragraph": 60,
-    "sha256": "a9f533d6939896d187fdb1cabde66c2eda2c4617233a391c96671dc8d3be6a10",
+    "sha256": "de7ac538262aabc9ef6bcec1d1a557f1affa8b5a606187b34366de076cd2816b",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false
@@ -369,7 +369,7 @@
   },
   {
     "paragraph": 63,
-    "sha256": "29986110ddddd3ca89ef8b000c8f7c19a9f3c3a328b59c8c95030af7a5f4997e",
+    "sha256": "39a3c4784baee342c1a038b95e3d61dd7353ec9199e2ad050c8b495cb5ebfca1",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false
@@ -401,7 +401,7 @@
   },
   {
     "paragraph": 69,
-    "sha256": "30d9e527c0804b3e6c3d134369ae971b69a459df1b0d78408bfad05b0e0ddf36",
+    "sha256": "2166bd40f51e32abeddbd2f9dcebc324a8a42e3078104f6abe3cc087442ec259",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false
@@ -429,7 +429,7 @@
   },
   {
     "paragraph": 74,
-    "sha256": "3f29de8851585cbbd7a0b7466bc0dbd1bb4be87a98cec955719e2222a58c98cd",
+    "sha256": "330dab5571a200bf5c501bb5506cff7f1d2e4f0716d1079e96f6a346b1bb8c60",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false
@@ -547,7 +547,7 @@
   },
   {
     "paragraph": 94,
-    "sha256": "66b17bf81342d400cc12f872b9b15ab0164f89b2dd34db626c2a267095c88446",
+    "sha256": "adf0b270f502171826032d4c6800c73e4962cd18b7ad65c8e92f99f9465afeae",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false
@@ -568,14 +568,14 @@
   },
   {
     "paragraph": 99,
-    "sha256": "5979d1f2feca2c8580915ad21a1ad30960ebc0b376eb974c0466a8ccd11e912d",
+    "sha256": "fe0aa6ed9ed84183631cf9c6236215395fe3f70b6bb12a25c62e7ba1a2c88151",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false
   },
   {
     "paragraph": 100,
-    "sha256": "8a60f66f917f1fa307be35d542e740a1d1035a8c81aa6eb6433122bc1b78bdba",
+    "sha256": "d0ff8d0d2487c0dc7fee521dc52ec88d29bae9e93a1cb37395da90345bcba37f",
     "kind": "literature_supported_paragraph",
     "evidence_keys": [
       "Skills2026"
@@ -584,7 +584,7 @@
   },
   {
     "paragraph": 101,
-    "sha256": "074564257ca479693ba524bb316da7ac3884869d8b96df97c72eb8059f670082",
+    "sha256": "c2f27e0508b3d64778eb7c64b916d92fdbed216577c6d2dd96e2e1afa459b8dd",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false
@@ -605,7 +605,7 @@
   },
   {
     "paragraph": 105,
-    "sha256": "aa308844f08778cc078ecb8661615df25f832e9924e3f4066f03b7217d836a04",
+    "sha256": "653815b2a933407381f6c56842cc2b128d8e18af3373662486ebe3a0a4c7368b",
     "kind": "disclosure_or_proposal_or_argument",
     "evidence_keys": [],
     "human_reviewed": false

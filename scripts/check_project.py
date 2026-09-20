@@ -14,7 +14,7 @@ for k in keys:
     if r.get('read_level')=='metadata':errors.append(k+' cited from metadata only')
 tex=(R/'03-论文/main.tex').read_text(encoding='utf-8'); texkeys={k for g in re.findall(r'\\cite\{([^}]+)\}',tex) for k in g.split(',')}
 if keys!=texkeys:errors.append('Markdown/TeX citation mismatch')
-if 'No new model experiments reported' not in tex:errors.append('Missing no-experiment label')
+if 'Position paper and research agenda.' not in tex:errors.append('Missing paper scope label')
 version=json.loads((R/'03-论文/version.json').read_text(encoding='utf-8'))
 if not version.get('authors_confirmed') or version.get('authors')!=[{'name':'CongWang','affiliation':'ZhejiangLab'}]:errors.append('Author identity mismatch')
 if r'\author{CongWang\\ZhejiangLab}' not in tex:errors.append('LaTeX author mismatch')

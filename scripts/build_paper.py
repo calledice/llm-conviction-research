@@ -124,7 +124,7 @@ preamble=r'''\documentclass[11pt]{article}
 \clubpenalty=10000
 '''
 preamble += '\\title{'+tex(version['title'])+'}\n\\author{CongWang\\\\ZhejiangLab}\n\\date{'+tex(version['date_display'])+'}\n'
-preamble += '\\begin{document}\n\\maketitle\n\\begin{center}\\small\\textbf{'+tex(version['version'])+' public working position-paper draft. No new model experiments reported.}\\end{center}\n'
+preamble += '\\begin{document}\n\\maketitle\n\\begin{center}\\small\\textbf{'+tex(version['version'])+' | Position paper and research agenda.}\\end{center}\n'
 out, claimrows = [preamble], []
 started = inabstract = appendix = False
 section = ''
@@ -154,7 +154,7 @@ for para in md.split('\n\n'):
         if para.startswith('## 6.'):
             out.append(r'''\begin{figure}[htbp]
 \centering\includegraphics[width=0.98\linewidth]{figures/framework.pdf}
-\caption{Proposed research process and its evaluation. Formation, retained commitments, and action are examined together. Ethical acceptability and corrigibility are assessed separately from the evidence profile. Conceptual diagram, not experimental results.}
+\caption{Proposed research process and its evaluation. Formation, retained commitments, and action are examined together. Ethical acceptability and corrigibility are assessed separately from the evidence profile.}
 \label{fig:framework}
 \end{figure}''')
     elif para.startswith('### '):
