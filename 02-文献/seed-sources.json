@@ -1,0 +1,174 @@
+[
+  {
+    "key": "Ouyang2022",
+    "arxiv": "2203.02155"
+  },
+  {
+    "key": "Bai2022",
+    "arxiv": "2212.08073"
+  },
+  {
+    "key": "Li2023",
+    "arxiv": "2210.13382"
+  },
+  {
+    "key": "Burns2023",
+    "arxiv": "2212.03827"
+  },
+  {
+    "key": "Marks2024",
+    "arxiv": "2310.06824"
+  },
+  {
+    "key": "Azaria2023",
+    "arxiv": "2304.13734"
+  },
+  {
+    "key": "Zou2023",
+    "arxiv": "2310.01405"
+  },
+  {
+    "key": "Butlin2023",
+    "arxiv": "2308.08708"
+  },
+  {
+    "key": "Chalmers2023",
+    "arxiv": "2303.07103"
+  },
+  {
+    "key": "Kadavath2022",
+    "arxiv": "2207.05221"
+  },
+  {
+    "key": "Berglund2023",
+    "arxiv": "2309.00667"
+  },
+  {
+    "key": "LookingInward2024",
+    "arxiv": "2410.13787"
+  },
+  {
+    "key": "Turpin2023",
+    "arxiv": "2305.04388"
+  },
+  {
+    "key": "Huang2023",
+    "arxiv": "2310.01798"
+  },
+  {
+    "key": "Sharma2023",
+    "arxiv": "2310.13548"
+  },
+  {
+    "key": "Greenblatt2024",
+    "arxiv": "2412.14093"
+  },
+  {
+    "key": "Hubinger2024",
+    "arxiv": "2401.05566"
+  },
+  {
+    "key": "Colas2020",
+    "arxiv": "2012.09830"
+  },
+  {
+    "key": "Park2023",
+    "arxiv": "2304.03442"
+  },
+  {
+    "key": "Shinn2023",
+    "arxiv": "2303.11366"
+  },
+  {
+    "key": "HadfieldMenell2016",
+    "arxiv": "1606.03137"
+  },
+  {
+    "key": "OffSwitch2017",
+    "arxiv": "1611.08219"
+  },
+  {
+    "key": "Skills2026",
+    "arxiv": "2609.00065"
+  },
+  {
+    "key": "Gabriel2020",
+    "doi": "10.1007/s11023-020-09539-2"
+  },
+  {
+    "key": "RyanDeci2000",
+    "doi": "10.1037/0003-066X.55.1.68"
+  },
+  {
+    "key": "Harnad1990",
+    "doi": "10.1016/0167-2789(90)90087-6"
+  },
+  {
+    "key": "AGM1985",
+    "doi": "10.2307/2274239"
+  },
+  {
+    "key": "Oudeyer2007",
+    "doi": "10.1109/TEVC.2006.890271"
+  },
+  {
+    "key": "WangSEP",
+    "url": "https://plato.stanford.edu/entries/wang-yangming/",
+    "title": "Wang Yangming"
+  },
+  {
+    "key": "BeliefSEP",
+    "url": "https://plato.stanford.edu/entries/belief/",
+    "title": "Belief"
+  },
+  {
+    "key": "MachineEthicsSEP",
+    "url": "https://plato.stanford.edu/entries/ethics-ai/",
+    "title": "Ethics of Artificial Intelligence and Robotics"
+  },
+  {
+    "key": "Ganguli2023",
+    "arxiv": "2302.07459"
+  },
+  {
+    "key": "ModelEditing2024",
+    "arxiv": "2406.19354"
+  },
+  {
+    "key": "Rationality2024",
+    "arxiv": "2406.03442"
+  },
+  {
+    "key": "IntrospectionCheck2026",
+    "arxiv": "2605.26242"
+  },
+  {
+    "key": "Values2026",
+    "arxiv": "2609.16589"
+  },
+  {
+    "key": "Archetypes2026",
+    "arxiv": "2609.15998"
+  },
+  {
+    "key": "Story2026",
+    "arxiv": "2609.10883"
+  },
+  {
+    "key": "MoralConvergence2025",
+    "arxiv": "2510.07290"
+  },
+  {
+    "key": "WangComparative",
+    "doi": "10.1163/15406253-03302007"
+  },
+  {
+    "key": "ClaudeCharacter",
+    "url": "https://www.anthropic.com/research/claude-character",
+    "title": "Claude's character",
+    "authors": [
+      "Anthropic"
+    ],
+    "year": "2024"
+  }
+]

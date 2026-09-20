@@ -1,0 +1,986 @@
+[
+  {
+    "query": "language model belief revision",
+    "provider": "arXiv",
+    "url": "https://arxiv.org/search/?query=language+model+belief+revision&searchtype=all&abstracts=show&order=-announced_date_first&size=50",
+    "accessed_at": "2026-09-18T09:43:16.277038+00:00",
+    "results": [
+      {
+        "title": "Toward Robust Personalized Alignment for LLMs: Mitigating Persona Drift in Multi-Turn Dialogue",
+        "url": "https://arxiv.org/abs/2609.12373"
+      },
+      {
+        "title": "Map the Possibilities: Spatial Belief Fields for Language -Goal Aerial Navigation",
+        "url": "https://arxiv.org/abs/2609.05841"
+      },
+      {
+        "title": "DERELAB: Probing Defeasible Reasoning and Confirmation Bias in LLMs with a Generative Benchmark",
+        "url": "https://arxiv.org/abs/2608.30413"
+      },
+      {
+        "title": "IRIS: Navigating and Reflecting on Writing Traces Using Intelligent Document Histories",
+        "url": "https://arxiv.org/abs/2608.19614"
+      },
+      {
+        "title": "Philosophical vertigo with artificial intelligence",
+        "url": "https://arxiv.org/abs/2608.11955"
+      },
+      {
+        "title": "PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots",
+        "url": "https://arxiv.org/abs/2608.10449"
+      },
+      {
+        "title": "HarnessWAM: Bridging Prediction and Deliberation in World Action Models",
+        "url": "https://arxiv.org/abs/2608.09516"
+      },
+      {
+        "title": "ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step",
+        "url": "https://arxiv.org/abs/2608.02358"
+      },
+      {
+        "title": "Belief Coevolution in a Social Network of Generalist and Specialist Large Language Models",
+        "url": "https://arxiv.org/abs/2607.27512"
+      },
+      {
+        "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
+        "url": "https://arxiv.org/abs/2607.21558"
+      },
+      {
+        "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+        "url": "https://arxiv.org/abs/2607.09195"
+      },
+      {
+        "title": "TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning",
+        "url": "https://arxiv.org/abs/2607.08283"
+      },
+      {
+        "title": "Nested Episodic State Topology (NEST): A Graph-Theoretic Architecture of Cognitive States",
+        "url": "https://arxiv.org/abs/2607.06055"
+      },
+      {
+        "title": "Self-Specializing Vision- Language Transmon Chip Calibration in a Physics-Grounded Environment",
+        "url": "https://arxiv.org/abs/2607.03193"
+      },
+      {
+        "title": "When Does Belief -Based Agent Memory Help? Reliability-Conditional Updating and Provenance-Capped Poisoning Defense",
+        "url": "https://arxiv.org/abs/2606.22030"
+      },
+      {
+        "title": "Struct-Searcher: Agentic Structural Thinking Advances Multimodal Deep Information Seeking",
+        "url": "https://arxiv.org/abs/2606.07689"
+      },
+      {
+        "title": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
+        "url": "https://arxiv.org/abs/2606.06443"
+      },
+      {
+        "title": "Staying with the Uncertainty: Uncertainty-Scaffolding Strategies for Artificial Moral Advisors in LLM-to-LLM Simulated Conversations",
+        "url": "https://arxiv.org/abs/2606.05890"
+      },
+      {
+        "title": "FALSIFYBENCH: Evaluating Inductive Reasoning in LLMs with Rule Discovery Games",
+        "url": "https://arxiv.org/abs/2606.04751"
+      },
+      {
+        "title": "ZX-Calculus:Trace-Indexed Dependent Types and Epistemic Semantics",
+        "url": "https://arxiv.org/abs/2606.03063"
+      },
+      {
+        "title": "MACAA: Belief - Revision Multi-Agent Reasoning for Code Authorship Verification",
+        "url": "https://arxiv.org/abs/2605.09421"
+      },
+      {
+        "title": "Change My View? The Dynamics of Persuasion and Polarization in Online Discourse",
+        "url": "https://arxiv.org/abs/2605.08383"
+      },
+      {
+        "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
+        "url": "https://arxiv.org/abs/2605.06527"
+      },
+      {
+        "title": "SpaMEM: Benchmarking Dynamic Spatial Reasoning via Perception-Memory Integration in Embodied Environments",
+        "url": "https://arxiv.org/abs/2604.22409"
+      },
+      {
+        "title": "Headlines You Won't Forget: Can Pronoun Insertion Increase Memorability?",
+        "url": "https://arxiv.org/abs/2604.19189"
+      },
+      {
+        "title": "AI scientists produce results without reasoning scientifically",
+        "url": "https://arxiv.org/abs/2604.18805"
+      },
+      {
+        "title": "Spatiotemporal Sycophancy: Negation-Based Gaslighting in Video Large Language Models",
+        "url": "https://arxiv.org/abs/2604.17873"
+      },
+      {
+        "title": "MEDLEY-BENCH: Benchmarking Behavioural Metacognition and Belief Revision Under Social Pressure in Large Language Models",
+        "url": "https://arxiv.org/abs/2604.16009"
+      },
+      {
+        "title": "Quantifying Cross-Query Contradictions in Multi-Query LLM Reasoning",
+        "url": "https://arxiv.org/abs/2604.14525"
+      },
+      {
+        "title": "How Much Heavy Lifting Can an Agent Harness Do?: Measuring the LLM's Residual Role in a Planning Agent",
+        "url": "https://arxiv.org/abs/2604.07236"
+      },
+      {
+        "title": "ClawArena: Benchmarking AI Agents in Evolving Information Environments",
+        "url": "https://arxiv.org/abs/2604.04202"
+      },
+      {
+        "title": "DeltaLogic: Minimal Premise Edits Reveal Belief - Revision Failures in Logical Reasoning Models",
+        "url": "https://arxiv.org/abs/2604.02733"
+      },
+      {
+        "title": "Statistical Compatibility, Refutational Information, and Acceptability",
+        "url": "https://arxiv.org/abs/2603.27721"
+      },
+      {
+        "title": "BeliefShift: Benchmarking Temporal Belief Consistency and Opinion Drift in LLM Agents",
+        "url": "https://arxiv.org/abs/2603.23848"
+      },
+      {
+        "title": "A Hybrid Theory and Data-driven Approach to Persuasion Detection with Large Language Models",
+        "url": "https://arxiv.org/abs/2511.22109"
+      },
+      {
+        "title": "Modeling Hawkish-Dovish Latent Beliefs in Multi-Agent Debate-Based LLMs for Monetary Policy Decision Classification",
+        "url": "https://arxiv.org/abs/2511.02469"
+      },
+      {
+        "title": "Do Language Models Update their Forecasts with New Information?",
+        "url": "https://arxiv.org/abs/2509.23936"
+      },
+      {
+        "title": "AI, Expert or Peer? Provider Biases and Feedback Uptake Among Pre-Service Teachers",
+        "url": "https://arxiv.org/abs/2507.16013"
+      },
+      {
+        "title": "Machine Learning as Iterated Belief Change a la Darwiche and Pearl",
+        "url": "https://arxiv.org/abs/2506.13157"
+      },
+      {
+        "title": "Dynamic Epistemic Friction in Dialogue",
+        "url": "https://arxiv.org/abs/2506.10934"
+      },
+      {
+        "title": "Simulating Society Requires Simulating Thought",
+        "url": "https://arxiv.org/abs/2506.06958"
+      },
+      {
+        "title": "Mind the Gap! Choice Independence in Using Multilingual LLMs for Persuasive Co-Writing Tasks in Different Languages",
+        "url": "https://arxiv.org/abs/2502.09532"
+      },
+      {
+        "title": "An Algebraic Notion of Conditional Independence, and Its Application to Knowledge Representation (full version)",
+        "url": "https://arxiv.org/abs/2412.13712"
+      },
+      {
+        "title": "Belief Revision : The Adaptability of Large Language Models Reasoning",
+        "url": "https://arxiv.org/abs/2406.19764"
+      },
+      {
+        "title": "Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?",
+        "url": "https://arxiv.org/abs/2406.19354"
+      },
+      {
+        "title": "Are language models rational? The case of coherence norms and belief revision",
+        "url": "https://arxiv.org/abs/2406.03442"
+      },
+      {
+        "title": "Doing Experiments and Revising Rules with Natural Language and Probabilistic Reasoning",
+        "url": "https://arxiv.org/abs/2402.06025"
+      },
+      {
+        "title": "Meaning and understanding in large language models",
+        "url": "https://arxiv.org/abs/2310.17407"
+      },
+      {
+        "title": "Proposing a conceptual framework: social media listening for public health behavior",
+        "url": "https://arxiv.org/abs/2308.02037"
+      },
+      {
+        "title": "Utilizing Source Code Syntax Patterns to Detect Bug Inducing Commits using Machine Learning Models",
+        "url": "https://arxiv.org/abs/2212.03399"
+      }
+    ]
+  },
+  {
+    "query": "language model value internalization",
+    "provider": "arXiv",
+    "url": "https://arxiv.org/search/?query=language+model+value+internalization&searchtype=all&abstracts=show&order=-announced_date_first&size=50",
+    "accessed_at": "2026-09-18T09:43:30.543615+00:00",
+    "results": [
+      {
+        "title": "Do LLMs Have Values ? A Quantitative Analysis and Alignment Framework for Values in Large Language Models",
+        "url": "https://arxiv.org/abs/2609.16589"
+      },
+      {
+        "title": "Interpreting and Steering LLM Agents for Social Simulations",
+        "url": "https://arxiv.org/abs/2609.16436"
+      },
+      {
+        "title": "Metacognitive Steering: Learning the Structure of Scientific Judgment",
+        "url": "https://arxiv.org/abs/2609.16245"
+      },
+      {
+        "title": "Fabrication After Tool Failure: Tool-Augmented Agents Assert Values Their Tools Did Not Return",
+        "url": "https://arxiv.org/abs/2609.14758"
+      },
+      {
+        "title": "Inside VLM Chart Reading: Tracing Value Reading from Vertical Bar Charts Across Space and Depth",
+        "url": "https://arxiv.org/abs/2609.13745"
+      },
+      {
+        "title": "It's Not RoPE that Creates Sinks: The Role of Self-Concentration and Value -Non-Mixing in Attention",
+        "url": "https://arxiv.org/abs/2609.09085"
+      },
+      {
+        "title": "Organization of Valence and Arousal in Vision- Language Representations of Built Environments: Insights from the EMOIS Dataset",
+        "url": "https://arxiv.org/abs/2609.06870"
+      },
+      {
+        "title": "Characterizing Contention-Induced Reliability Collapse in KV-Cache Timing Side Channels for Multi-Tenant LLM Serving",
+        "url": "https://arxiv.org/abs/2609.06853"
+      },
+      {
+        "title": "Separating Capability from Confidence: Grounded Dual-State Calibration for GRPO-Trained Medical Vision- Language Models",
+        "url": "https://arxiv.org/abs/2609.06419"
+      },
+      {
+        "title": "AlcaTRAz - Anchored Tree-Rule Defense Against Jailbreaks",
+        "url": "https://arxiv.org/abs/2609.03693"
+      },
+      {
+        "title": "It's the Problem, Not the Path: Budget and Difficulty Confounds in LLM Reasoning Trajectories",
+        "url": "https://arxiv.org/abs/2609.03436"
+      },
+      {
+        "title": "Lngram v2: Latent N-Gram Memory with Interpretable Discrete Representations",
+        "url": "https://arxiv.org/abs/2609.03426"
+      },
+      {
+        "title": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
+        "url": "https://arxiv.org/abs/2609.01567"
+      },
+      {
+        "title": "Compressing AI Traffic: Standardized Neural Network Coding of Visual-Token Representations in Split Vision- Language Inference",
+        "url": "https://arxiv.org/abs/2609.01200"
+      },
+      {
+        "title": "SemKV: Semantic Mixed-Precision KV Cache Quantization Guided by the Quality Cliff for Long-Context LLM Inference",
+        "url": "https://arxiv.org/abs/2608.28911"
+      },
+      {
+        "title": "When Linguistic and Internal Confidence Diverge in Large Language Models",
+        "url": "https://arxiv.org/abs/2608.28382"
+      },
+      {
+        "title": "Knowing Before Answering: Decoding Language Models for Reliable RAG",
+        "url": "https://arxiv.org/abs/2608.27661"
+      },
+      {
+        "title": "ConsensusTAS: Self-Supervised Temporal Action Segmentation for Long-Horizon Construction Videos",
+        "url": "https://arxiv.org/abs/2608.24043"
+      },
+      {
+        "title": "AI-Assisted Extraction of Follow-up Observations from GCN Circulars in Astro-COLIBRI",
+        "url": "https://arxiv.org/abs/2608.23270"
+      },
+      {
+        "title": "When Persona Simulations Are Informative: Graph-Structured Signals for Pluralistic Opinion Sensing",
+        "url": "https://arxiv.org/abs/2608.22438"
+      },
+      {
+        "title": "LLMs for Survey Text Analysis - A Performance Comparison Between Humans and GPT-5 on Inductive Content Analysis",
+        "url": "https://arxiv.org/abs/2608.22417"
+      },
+      {
+        "title": "Dual-Layer Agentic Memory with Fast Write Routing and Slow Consolidation",
+        "url": "https://arxiv.org/abs/2608.22215"
+      },
+      {
+        "title": "Let Credit Follow Computation: Architecture-Aware Credit Transport for Large Language Model Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2608.21501"
+      },
+      {
+        "title": "ExpertIVS: Sociological Expert Driven Individual Value Simulation in Large Language Models",
+        "url": "https://arxiv.org/abs/2608.20355"
+      },
+      {
+        "title": "Mechanistic Interpretability of Structure-Aware Numerical Reasoning in LLaMA 3.1 8B",
+        "url": "https://arxiv.org/abs/2608.18419"
+      },
+      {
+        "title": "FIRM: Fine-Grained Intra-Token Representation of Masks for Remote Sensing Reasoning Segmentation",
+        "url": "https://arxiv.org/abs/2608.13980"
+      },
+      {
+        "title": "CROP: Task Relevance via Counterfactuals for Selective On-Policy Distillation",
+        "url": "https://arxiv.org/abs/2608.13387"
+      },
+      {
+        "title": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining",
+        "url": "https://arxiv.org/abs/2608.12419"
+      },
+      {
+        "title": "Task- and dataset-specific information in protein language models",
+        "url": "https://arxiv.org/abs/2608.12090"
+      },
+      {
+        "title": "Beyond Cash Flows: A Multi-Agent AI Framework for Valuing Clinical-Stage, Cross-Border Biotechnology",
+        "url": "https://arxiv.org/abs/2608.10175"
+      },
+      {
+        "title": "Detecting Behavioral Changes in Python Refactoring Implementations with Foundation Models",
+        "url": "https://arxiv.org/abs/2608.09919"
+      },
+      {
+        "title": "Consilience for Verifier-Free Test-Time Scaling",
+        "url": "https://arxiv.org/abs/2608.09898"
+      },
+      {
+        "title": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
+        "url": "https://arxiv.org/abs/2608.09853"
+      },
+      {
+        "title": "DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference",
+        "url": "https://arxiv.org/abs/2608.08878"
+      },
+      {
+        "title": "Cryptanalytic Extraction of Isolated Bias-Free GLU Feed-Forward Blocks by Antipodal Separation",
+        "url": "https://arxiv.org/abs/2608.06631"
+      },
+      {
+        "title": "Divergent Response Modes in Frontier Language Models Under Steering Pressure",
+        "url": "https://arxiv.org/abs/2608.06578"
+      },
+      {
+        "title": "NeuroMosaic: Anatomically Grounded Multimodal Large Language Modeling for Molecularly Aware Glioma Reasoning from 3D MRI and Clinical Narratives",
+        "url": "https://arxiv.org/abs/2608.03187"
+      },
+      {
+        "title": "Why Large Language Models Fail at Tabular Prediction",
+        "url": "https://arxiv.org/abs/2608.02412"
+      },
+      {
+        "title": "Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models",
+        "url": "https://arxiv.org/abs/2607.28979"
+      },
+      {
+        "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
+        "url": "https://arxiv.org/abs/2607.28607"
+      },
+      {
+        "title": "Bridging openEHR and OMOP: Expanded Mappings and Systematic Analysis of Semantic and Structural Limitations in the OMOP CDM",
+        "url": "https://arxiv.org/abs/2607.27208"
+      },
+      {
+        "title": "Linguistic Monoculture in LLM-Assisted Language Use",
+        "url": "https://arxiv.org/abs/2607.27134"
+      },
+      {
+        "title": "Veritas++: Value -aware On-Policy Distillation for Perception-Enhanced AIGI Detection",
+        "url": "https://arxiv.org/abs/2607.27113"
+      },
+      {
+        "title": "Do Latent Channels Actually Communicate? A Causal Audit of Latent Multi-Agent LLM",
+        "url": "https://arxiv.org/abs/2607.26773"
+      },
+      {
+        "title": "Misalignment Has a Personality: A Big Five Account of Emergent Misalignment",
+        "url": "https://arxiv.org/abs/2607.26389"
+      },
+      {
+        "title": "Is ChatGPT as reliable as individual reviewers assessing the quality of published journal articles from PDFs or titles and abstracts?",
+        "url": "https://arxiv.org/abs/2607.25965"
+      },
+      {
+        "title": "D-Score: A Spectral Hidden-State Signal for Hallucination Detection in Large Language Models",
+        "url": "https://arxiv.org/abs/2607.24586"
+      },
+      {
+        "title": "RESTOR: Automated Test Oracle Generation for RESTful APIs via Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2607.23963"
+      },
+      {
+        "title": "Agentic AI Orchestration of Heterogeneous Economic Models for Rapid, Multi-scenario Analysis of Energy Crises",
+        "url": "https://arxiv.org/abs/2607.23313"
+      },
+      {
+        "title": "Physically Verifiable Evidence and LLM-Based Reporting for Bearing Fault Diagnosis",
+        "url": "https://arxiv.org/abs/2607.22797"
+      }
+    ]
+  },
+  {
+    "query": "language model conviction commitment",
+    "provider": "arXiv",
+    "url": "https://arxiv.org/search/?query=language+model+conviction+commitment&searchtype=all&abstracts=show&order=-announced_date_first&size=50",
+    "accessed_at": "2026-09-18T09:43:46.148355+00:00",
+    "results": [
+      {
+        "title": "Ask don't tell: Reducing sycophancy in large language models",
+        "url": "https://arxiv.org/abs/2602.23971"
+      }
+    ]
+  },
+  {
+    "query": "language model introspection",
+    "provider": "arXiv",
+    "url": "https://arxiv.org/search/?query=language+model+introspection&searchtype=all&abstracts=show&order=-announced_date_first&size=50",
+    "accessed_at": "2026-09-18T09:43:55.918660+00:00",
+    "results": [
+      {
+        "title": "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
+        "url": "https://arxiv.org/abs/2609.17708"
+      },
+      {
+        "title": "Introspective Uncertainty Estimation for LLM-Based Code Generation",
+        "url": "https://arxiv.org/abs/2609.13975"
+      },
+      {
+        "title": "Understanding Autonomous Driving Datasets by Describing Differences between Image Subsets in Natural Language",
+        "url": "https://arxiv.org/abs/2609.03677"
+      },
+      {
+        "title": "IntroConformal: Conformal Factuality Guarantees for Large Vision- Language Models via Introspective Signals",
+        "url": "https://arxiv.org/abs/2609.01375"
+      },
+      {
+        "title": "Evaluating and Improving LLM Self- Modeling",
+        "url": "https://arxiv.org/abs/2608.30980"
+      },
+      {
+        "title": "Measuring Activation Control in Large Language Models",
+        "url": "https://arxiv.org/abs/2608.21664"
+      },
+      {
+        "title": "Open-Weight Masked Introspection : Measuring What Language Models Can Report About Their Own Computation",
+        "url": "https://arxiv.org/abs/2608.20569"
+      },
+      {
+        "title": "Assessing LLMs' mathematical abilities requires understanding the various mechanisms of mathematical creativity",
+        "url": "https://arxiv.org/abs/2608.16118"
+      },
+      {
+        "title": "Fundamental Mathematics in the Age of AI -- The Residue, the Journey, and the Ecology",
+        "url": "https://arxiv.org/abs/2608.12816"
+      },
+      {
+        "title": "Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision- Language -Action Models",
+        "url": "https://arxiv.org/abs/2608.10824"
+      },
+      {
+        "title": "Looking in the Mirror: Introspecting Side-Effect Misalignments Induced by Fine-Tuning",
+        "url": "https://arxiv.org/abs/2608.04347"
+      },
+      {
+        "title": "Decoy Images Amplify Caption-Mediated Defenses Against Encoded Jailbreaks",
+        "url": "https://arxiv.org/abs/2608.01043"
+      },
+      {
+        "title": "Benchmarks Are Not Monolithic: Sample-Level Auditing and Orchestration for LLM Evaluation",
+        "url": "https://arxiv.org/abs/2607.28801"
+      },
+      {
+        "title": "Operational Proto- Introspection in Looped Language Models : Process-Quality Taps, Executable Branching, and the Readout-Control Boundary",
+        "url": "https://arxiv.org/abs/2607.18553"
+      },
+      {
+        "title": "How to Build Marcus's Algebraic Mind: From Minsky's Emotion-Machine Viewpoint",
+        "url": "https://arxiv.org/abs/2607.16623"
+      },
+      {
+        "title": "Introspection Fine-Tuning (IFT): Training Small LLMs to Introspect",
+        "url": "https://arxiv.org/abs/2607.14111"
+      },
+      {
+        "title": "CANONIC: Governance Is Compilation",
+        "url": "https://arxiv.org/abs/2607.05410"
+      },
+      {
+        "title": "Self-Reference in Large Language Models : The Introspection Threshold for Recursive Self-Improvement",
+        "url": "https://arxiv.org/abs/2607.04277"
+      },
+      {
+        "title": "Revealing Hidden Model Behaviors with Task-Specific Self-Reports",
+        "url": "https://arxiv.org/abs/2607.03640"
+      },
+      {
+        "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
+        "url": "https://arxiv.org/abs/2606.32038"
+      },
+      {
+        "title": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
+        "url": "https://arxiv.org/abs/2606.23671"
+      },
+      {
+        "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
+        "url": "https://arxiv.org/abs/2606.22565"
+      },
+      {
+        "title": "Emergent Alignment",
+        "url": "https://arxiv.org/abs/2606.19527"
+      },
+      {
+        "title": "Translate-R1: Cost-Aware Translation Tool Use via Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2606.06835"
+      },
+      {
+        "title": "AIP: A Graph Representation for Learning and Governing Agent Skills",
+        "url": "https://arxiv.org/abs/2606.04781"
+      },
+      {
+        "title": "Do Models Know Why They Changed Their Mind? Interpretability and Faithfulness of Chain-of-Thought Under Knowledge Conflict",
+        "url": "https://arxiv.org/abs/2605.27773"
+      },
+      {
+        "title": "Can LLMs Introspect ? A Reality Check",
+        "url": "https://arxiv.org/abs/2605.26242"
+      },
+      {
+        "title": "VIHD: Visual Intervention-based Hallucination Detection for Medical Visual Question Answering",
+        "url": "https://arxiv.org/abs/2605.20772"
+      },
+      {
+        "title": "Introspective X Training: Feedback Conditioning Improves Scaling Across all LLM Training Stages",
+        "url": "https://arxiv.org/abs/2605.20285"
+      },
+      {
+        "title": "Phase Transitions in Driven Informational Systems: A Two-Field Perspective on Learning Theory and Non-Equilibrium Chemistry",
+        "url": "https://arxiv.org/abs/2605.16325"
+      },
+      {
+        "title": "Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior",
+        "url": "https://arxiv.org/abs/2605.03855"
+      },
+      {
+        "title": "Beyond Pixels: Introspective and Interactive Grounding for Visualization Agents",
+        "url": "https://arxiv.org/abs/2604.21134"
+      },
+      {
+        "title": "Strategic Polysemy in AI Discourse: A Philosophical Analysis of Language , Hype, and Power",
+        "url": "https://arxiv.org/abs/2604.21043"
+      },
+      {
+        "title": "SCM: Sleep-Consolidated Memory with Algorithmic Forgetting for Large Language Models",
+        "url": "https://arxiv.org/abs/2604.20943"
+      },
+      {
+        "title": "Introspection Adapters: Training LLMs to Report Their Learned Behaviors",
+        "url": "https://arxiv.org/abs/2604.16812"
+      },
+      {
+        "title": "SQL Query Engine: A Self-Healing LLM Pipeline for Natural Language to PostgreSQL Translation",
+        "url": "https://arxiv.org/abs/2604.16511"
+      },
+      {
+        "title": "Masked by Consensus: Disentangling Privileged Knowledge in LLM Correctness",
+        "url": "https://arxiv.org/abs/2604.12373"
+      },
+      {
+        "title": "Introspective Diffusion Language Models",
+        "url": "https://arxiv.org/abs/2604.11035"
+      },
+      {
+        "title": "SVSR: A Self-Verification and Self-Rectification Paradigm for Multimodal Reasoning",
+        "url": "https://arxiv.org/abs/2604.10228"
+      },
+      {
+        "title": "Spotlight and Shadow: Attention-Guided Dual-Anchor Introspective Decoding for MLLM Hallucination Mitigation",
+        "url": "https://arxiv.org/abs/2604.10071"
+      },
+      {
+        "title": "Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization",
+        "url": "https://arxiv.org/abs/2604.07165"
+      },
+      {
+        "title": "When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't",
+        "url": "https://arxiv.org/abs/2604.06422"
+      },
+      {
+        "title": "Do Language Models Know When They'll Refuse? Probing Introspective Awareness of Safety Boundaries",
+        "url": "https://arxiv.org/abs/2604.00228"
+      },
+      {
+        "title": "Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification",
+        "url": "https://arxiv.org/abs/2603.26348"
+      },
+      {
+        "title": "STRIATUM-CTF: A Protocol-Driven Agentic Framework for General-Purpose CTF Solving",
+        "url": "https://arxiv.org/abs/2603.22577"
+      },
+      {
+        "title": "Me, Myself, and $π$ : Evaluating and Explaining LLM Introspection",
+        "url": "https://arxiv.org/abs/2603.20276"
+      },
+      {
+        "title": "Quantitative Introspection in Language Models : Tracking Emotive States Across Conversation",
+        "url": "https://arxiv.org/abs/2603.18893"
+      },
+      {
+        "title": "Shifting Uncertainty to Critical Moments: Towards Reliable Uncertainty Quantification for VLA Model",
+        "url": "https://arxiv.org/abs/2603.18342"
+      },
+      {
+        "title": "CyCLeGen: Cycle-Consistent Layout Prediction and Image Generation in Vision Foundation Models",
+        "url": "https://arxiv.org/abs/2603.14957"
+      },
+      {
+        "title": "IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework",
+        "url": "https://arxiv.org/abs/2603.09312"
+      }
+    ]
+  },
+  {
+    "query": "language model moral self correction",
+    "provider": "arXiv",
+    "url": "https://arxiv.org/search/?query=language+model+moral+self+correction&searchtype=all&abstracts=show&order=-announced_date_first&size=50",
+    "accessed_at": "2026-09-18T09:44:04.675036+00:00",
+    "results": [
+      {
+        "title": "Emergent decentralized regulation in a purely synthetic society",
+        "url": "https://arxiv.org/abs/2604.06199"
+      },
+      {
+        "title": "Moral Sycophancy in Vision Language Models",
+        "url": "https://arxiv.org/abs/2602.08311"
+      },
+      {
+        "title": "On the Convergence of Moral Self - Correction in Large Language Models",
+        "url": "https://arxiv.org/abs/2510.07290"
+      },
+      {
+        "title": "Discourse Heuristics For Paradoxically Moral Self - Correction",
+        "url": "https://arxiv.org/abs/2507.00985"
+      },
+      {
+        "title": "Explaining Intrinsic Moral Self - Correction with Mechanistic Interpretability",
+        "url": "https://arxiv.org/abs/2505.11924"
+      },
+      {
+        "title": "Smaller Large Language Models Can Do Moral Self - Correction",
+        "url": "https://arxiv.org/abs/2410.23496"
+      },
+      {
+        "title": "Self - correction is Not An Innate Capability in Language Models",
+        "url": "https://arxiv.org/abs/2410.20513"
+      },
+      {
+        "title": "Intrinsic Self - correction for Enhanced Morality : An Analysis of Internal Mechanisms and the Superficial Hypothesis",
+        "url": "https://arxiv.org/abs/2407.15286"
+      },
+      {
+        "title": "On the Intrinsic Self - Correction Capability of LLMs: Uncertainty and Latent Concept",
+        "url": "https://arxiv.org/abs/2406.02378"
+      },
+      {
+        "title": "Learning and Forgetting Unsafe Examples in Large Language Models",
+        "url": "https://arxiv.org/abs/2312.12736"
+      },
+      {
+        "title": "CBBQ: A Chinese Bias Benchmark Dataset Curated with Human-AI Collaboration for Large Language Models",
+        "url": "https://arxiv.org/abs/2306.16244"
+      },
+      {
+        "title": "The Capacity for Moral Self - Correction in Large Language Models",
+        "url": "https://arxiv.org/abs/2302.07459"
+      },
+      {
+        "title": "Diminished Diversity-of-Thought in a Standard Large Language Model",
+        "url": "https://arxiv.org/abs/2302.07267"
+      }
+    ]
+  },
+  {
+    "query": "language model character training",
+    "provider": "arXiv",
+    "url": "https://arxiv.org/search/?query=language+model+character+training&searchtype=all&abstracts=show&order=-announced_date_first&size=50",
+    "accessed_at": "2026-09-18T09:44:06.396146+00:00",
+    "results": [
+      {
+        "title": "Does Moral Reasoning Training Help or Hurt? Red-Teaming RL- Trained Ethical Agents with Persona Attacks",
+        "url": "https://arxiv.org/abs/2609.17552"
+      },
+      {
+        "title": "How Humans and LLMs Read Gender into \"Gender-Neutral\" Physical Descriptions",
+        "url": "https://arxiv.org/abs/2609.16366"
+      },
+      {
+        "title": "Self-reported archetypes and behavioral failures in Large Language Models",
+        "url": "https://arxiv.org/abs/2609.15998"
+      },
+      {
+        "title": "Typhoon ASR Streaming: Steerable Low-Latency Thai Speech Recognition with Real-Time Shallow Fusion",
+        "url": "https://arxiv.org/abs/2609.14991"
+      },
+      {
+        "title": "Grounded in Sound: Reinforcement Learning with a Frozen Acoustic Judge to Curb ASR Insertion Hallucinations",
+        "url": "https://arxiv.org/abs/2609.14455"
+      },
+      {
+        "title": "Complex-Text Robustness Evaluation and Failure Diagnosis for Low-Resource Multilingual Text-to-Speech",
+        "url": "https://arxiv.org/abs/2609.11545"
+      },
+      {
+        "title": "KuaiRP Series Role-playing Models Technical Report",
+        "url": "https://arxiv.org/abs/2609.11127"
+      },
+      {
+        "title": "Story Imprinting: AI Assistants Absorb Traits from Human Characters They Resemble",
+        "url": "https://arxiv.org/abs/2609.10883"
+      },
+      {
+        "title": "MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues",
+        "url": "https://arxiv.org/abs/2609.10457"
+      },
+      {
+        "title": "MedDeID enables locally governed clinical-text de-identification from real or synthetic training data",
+        "url": "https://arxiv.org/abs/2609.10049"
+      },
+      {
+        "title": "StreamAlign: Streaming Text-Aligned Speech Tokenization",
+        "url": "https://arxiv.org/abs/2609.09719"
+      },
+      {
+        "title": "BuzzASR: A Swarm of 100+ Monolingual Speech Recognition Models",
+        "url": "https://arxiv.org/abs/2609.09554"
+      },
+      {
+        "title": "Dense Structural Compression of Transformers via Gauge-Correct Channel Removal",
+        "url": "https://arxiv.org/abs/2609.07264"
+      },
+      {
+        "title": "WAPP: Safe Learning of Positive Security WAF Policies from Live Traffic",
+        "url": "https://arxiv.org/abs/2609.06840"
+      },
+      {
+        "title": "A Grapheme-Aware Indic Tokenizer for Tamil: Large-Scale Training and Intrinsic Evaluation",
+        "url": "https://arxiv.org/abs/2609.06690"
+      },
+      {
+        "title": "Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models",
+        "url": "https://arxiv.org/abs/2609.05779"
+      },
+      {
+        "title": "How Far Can Synthetic Data Take Thai OCR?",
+        "url": "https://arxiv.org/abs/2609.03595"
+      },
+      {
+        "title": "LLM-Guided Reinforcement Learning for Adaptive NPC Behavior in Multi-Agent Combat Games",
+        "url": "https://arxiv.org/abs/2609.02931"
+      },
+      {
+        "title": "CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction",
+        "url": "https://arxiv.org/abs/2609.02401"
+      },
+      {
+        "title": "ASCII Attack: Recontextualising Harmful Requests as Artistic Critique in Large Language Models",
+        "url": "https://arxiv.org/abs/2609.02215"
+      },
+      {
+        "title": "The Curse of Multilinguality in Lexical Normalization",
+        "url": "https://arxiv.org/abs/2609.00329"
+      },
+      {
+        "title": "When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models",
+        "url": "https://arxiv.org/abs/2608.31035"
+      },
+      {
+        "title": "Quantifying and Mitigating Korean Jamo-Level Typographical Vulnerabilities in Large Language Models",
+        "url": "https://arxiv.org/abs/2608.30229"
+      },
+      {
+        "title": "What Can Low Resource Languages Learn From Each Other?",
+        "url": "https://arxiv.org/abs/2608.27753"
+      },
+      {
+        "title": "When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages",
+        "url": "https://arxiv.org/abs/2608.27658"
+      },
+      {
+        "title": "Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility",
+        "url": "https://arxiv.org/abs/2608.26449"
+      },
+      {
+        "title": "MoganColBERT-TR: A Late-Interaction Multi-Vector Retrieval Model for Turkish",
+        "url": "https://arxiv.org/abs/2608.26344"
+      },
+      {
+        "title": "RefLAM: A Reference-Grounded Line Annotation Pipeline for Historical Arabic Manuscripts",
+        "url": "https://arxiv.org/abs/2608.25140"
+      },
+      {
+        "title": "The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline",
+        "url": "https://arxiv.org/abs/2608.24952"
+      },
+      {
+        "title": "Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors",
+        "url": "https://arxiv.org/abs/2608.23873"
+      },
+      {
+        "title": "Unsupervised Speech Recognition at the Syllable Level",
+        "url": "https://arxiv.org/abs/2608.22907"
+      },
+      {
+        "title": "SEAM: Shot Entity-Attribute Memory for Consistent Short-Drama Generation at Scale",
+        "url": "https://arxiv.org/abs/2608.22725"
+      },
+      {
+        "title": "TriPLU: Bypassing the Gate with Direct Trilinear Product FFNs in Tiny Language Models",
+        "url": "https://arxiv.org/abs/2608.20360"
+      },
+      {
+        "title": "Institutional Newspapers Pipeline: Deriving billions of high quality tokens from historical newspapers",
+        "url": "https://arxiv.org/abs/2608.18972"
+      },
+      {
+        "title": "TokEval: A Tokenizer Evaluation Suite",
+        "url": "https://arxiv.org/abs/2608.18062"
+      },
+      {
+        "title": "Scaling Creative Writing Beyond Story-Centric Data with Attribute-Guided Genre Expansion",
+        "url": "https://arxiv.org/abs/2608.13947"
+      },
+      {
+        "title": "JieZi: A Large-Scale Expert-Audited Dataset and Benchmark for Ancient Chinese Character Exegesis",
+        "url": "https://arxiv.org/abs/2608.11741"
+      },
+      {
+        "title": "Data Attribution of Emergent Misalignment with Persona Features",
+        "url": "https://arxiv.org/abs/2608.11025"
+      },
+      {
+        "title": "Universal or Language -Family-Specific Script Unification for Cross-Lingual Transfer? A Case Study on Turkic Languages",
+        "url": "https://arxiv.org/abs/2608.09356"
+      },
+      {
+        "title": "Explicit Boundary Markers for Subword Vocabularies",
+        "url": "https://arxiv.org/abs/2608.08847"
+      },
+      {
+        "title": "SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation",
+        "url": "https://arxiv.org/abs/2608.07462"
+      },
+      {
+        "title": "MMAligner: Safeguarding Multimodal Large Language Models through Representation Calibration",
+        "url": "https://arxiv.org/abs/2608.05909"
+      },
+      {
+        "title": "Different Perturbations, Different Mechanisms: Understanding Continued Pre- training for Zero-Shot Dialect Robustness",
+        "url": "https://arxiv.org/abs/2608.05510"
+      },
+      {
+        "title": "Beyond Initialization Loss: A Systematic Study of Token Embedding Initialization Strategies for LLM Vocabulary Extension",
+        "url": "https://arxiv.org/abs/2608.03494"
+      },
+      {
+        "title": "Character Iconicity vs. Arbitrariness: An Arabic NLP Perspective",
+        "url": "https://arxiv.org/abs/2608.02935"
+      },
+      {
+        "title": "Token-Native Storage: Read and Write in your Agent's Language",
+        "url": "https://arxiv.org/abs/2608.02376"
+      },
+      {
+        "title": "Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition",
+        "url": "https://arxiv.org/abs/2608.01646"
+      },
+      {
+        "title": "Logographic Character Visual Pretraining via Semantic-based Contrastive Learning",
+        "url": "https://arxiv.org/abs/2608.00096"
+      },
+      {
+        "title": "HARGO: Heterogeneity-Aware Reward-Guided Optimization for RL Post- Training of LLMs on HPC Tasks",
+        "url": "https://arxiv.org/abs/2607.28301"
+      },
+      {
+        "title": "Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation",
+        "url": "https://arxiv.org/abs/2607.27816"
+      }
+    ]
+  },
+  {
+    "query": "Wang Yangming knowledge action artificial intelligence",
+    "provider": "Crossref",
+    "url": "https://api.crossref.org/works?query=Wang+Yangming+knowledge+action+artificial+intelligence&rows=8",
+    "accessed_at": "2026-09-18T09:44:16.249712+00:00",
+    "results": [
+      {
+        "title": "Artificial Intelligence and Social Action: Education and Training",
+        "doi": "10.1007/978-1-4471-1632-5_8"
+      },
+      {
+        "title": "University Course Recommendation Based on Multi-source Educational Knowledge Graph",
+        "doi": "10.1109/iccbd-ai62252.2023.00132"
+      },
+      {
+        "title": "Wang Yangming on Goodness as Knowledge and Action",
+        "doi": "10.22916/jcpc.2026..46.115"
+      },
+      {
+        "title": "Progressive knowledge evolution under multi-granularity knowledge distillation for infrared action recognition",
+        "doi": "10.1016/j.engappai.2026.115128"
+      },
+      {
+        "title": "Wang Yangming’in 'Sezgisel Bilgi' Kuramı: Eylemde Zihinsel-Spiritüel Bütünlük ('Intuitive Knowledge' Theory of Wang Yangming: Mental-Spiritual Integrity in Action)",
+        "doi": "10.2139/ssrn.4112238"
+      },
+      {
+        "title": "Knowledge, action, and the frame problem",
+        "doi": "10.1016/s0004-3702(02)00365-x"
+      },
+      {
+        "title": "A Fresh Look at Knowledge And Action: Wang Yangming in Comparative Perspective",
+        "doi": "10.1163/15406253-03302007"
+      },
+      {
+        "title": "Indexical knowledge and robot action—a logical account",
+        "doi": "10.1016/0004-3702(94)00010-x"
+      }
+    ]
+  },
+  {
+    "query": "artificial intelligence value alignment autonomy",
+    "provider": "Crossref",
+    "url": "https://api.crossref.org/works?query=artificial+intelligence+value+alignment+autonomy&rows=8",
+    "accessed_at": "2026-09-18T09:44:19.661805+00:00",
+    "results": [
+      {
+        "title": "Exploring ‘Value Alignment’: A Genealogy and Three Conceptions",
+        "doi": "10.1007/978-3-032-13063-1_11"
+      },
+      {
+        "title": "Intelligence and Artificiality",
+        "doi": "10.5040/9781350353275.ch-1"
+      },
+      {
+        "title": "Four Settings and a Proposal for the Exploration of Value Alignment in AI ",
+        "doi": "10.1007/978-3-032-13063-1_13"
+      },
+      {
+        "title": "Travis LaCroix, Artificial Intelligence and the Value Alignment Problem&lt;br&gt;Reviewed",
+        "doi": "10.59350/a5brt-nfc70"
+      },
+      {
+        "title": "The Prospect of a Humanitarian Artificial Intelligence",
+        "doi": "10.5040/9781350353275"
+      },
+      {
+        "title": "Travis LaCroix, Artificial Intelligence and the Value Alignment Problem&lt;br&gt;Reviewed",
+        "doi": "10.59350/407an-xmq68"
+      },
+      {
+        "title": "Notes",
+        "doi": "10.5040/9781350353275.0007"
+      },
+      {
+        "title": "Social Choice and the Value Alignment Problem *",
+        "doi": "10.1201/9781351251389-21"
+      }
+    ]
+  }
+]

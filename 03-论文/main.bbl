@@ -1,0 +1,77 @@
+\begin{thebibliography}{99}
+
+\raggedright
+
+\bibitem{Ouyang2022} Long Ouyang, Jeff Wu, Xu Jiang et al. Training language models to follow instructions with human feedback. \emph{arXiv:2203.02155}, 2022. \href{https://arxiv.org/abs/2203.02155}{https://arxiv.org/abs/2203.02155}.
+
+\bibitem{Bai2022} Yuntao Bai, Saurav Kadavath, Sandipan Kundu et al. Constitutional AI: Harmlessness from AI Feedback. \emph{arXiv:2212.08073}, 2022. \href{https://arxiv.org/abs/2212.08073}{https://arxiv.org/abs/2212.08073}.
+
+\bibitem{ClaudeCharacter} Anthropic. Claude's character. \emph{Online publication}, 2024. \href{https://www.anthropic.com/research/claude-character}{https://www.anthropic.com/research/claude-character}.
+
+\bibitem{WangSEP} Bryan Van Norden. Wang Yangming. \emph{The Stanford Encyclopedia of Philosophy}, 2024. \href{https://plato.stanford.edu/entries/wang-yangming/}{https://plato.stanford.edu/entries/wang-yangming/}.
+
+\bibitem{BeliefSEP} Eric Schwitzgebel. Belief. \emph{The Stanford Encyclopedia of Philosophy}, 2023. \href{https://plato.stanford.edu/entries/belief/}{https://plato.stanford.edu/entries/belief/}.
+
+\bibitem{Butlin2023} Patrick Butlin, Robert Long, Eric Elmoznino et al. Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. \emph{arXiv:2308.08708}, 2023. \href{https://arxiv.org/abs/2308.08708}{https://arxiv.org/abs/2308.08708}.
+
+\bibitem{Chalmers2023} David J. Chalmers. Could a Large Language Model be Conscious?. \emph{arXiv:2303.07103}, 2023. \href{https://arxiv.org/abs/2303.07103}{https://arxiv.org/abs/2303.07103}.
+
+\bibitem{Li2023} Kenneth Li, Aspen K. Hopkins, David Bau et al. Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task. \emph{arXiv:2210.13382}, 2022. \href{https://arxiv.org/abs/2210.13382}{https://arxiv.org/abs/2210.13382}.
+
+\bibitem{Burns2023} Collin Burns, Haotian Ye, Dan Klein et al. Discovering Latent Knowledge in Language Models Without Supervision. \emph{arXiv:2212.03827}, 2022. \href{https://arxiv.org/abs/2212.03827}{https://arxiv.org/abs/2212.03827}.
+
+\bibitem{Marks2024} Samuel Marks, Max Tegmark. The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets. \emph{arXiv:2310.06824}, 2023. \href{https://arxiv.org/abs/2310.06824}{https://arxiv.org/abs/2310.06824}.
+
+\bibitem{Azaria2023} Amos Azaria, Tom Mitchell. The Internal State of an LLM Knows When It's Lying. \emph{Findings of the Association for Computational Linguistics: EMNLP 2023}, 967-976, 2023. \href{https://doi.org/10.18653/v1/2023.findings-emnlp.68}{doi:10.18653/v1/2023.findings-emnlp.68}.
+
+\bibitem{Zou2023} Andy Zou, Long Phan, Sarah Chen et al. Representation Engineering: A Top-Down Approach to AI Transparency. \emph{arXiv:2310.01405}, 2023. \href{https://arxiv.org/abs/2310.01405}{https://arxiv.org/abs/2310.01405}.
+
+\bibitem{ModelEditing2024} Peter Hase, Thomas Hofweber, Xiang Zhou et al. Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?. \emph{arXiv:2406.19354}, 2024. \href{https://arxiv.org/abs/2406.19354}{https://arxiv.org/abs/2406.19354}.
+
+\bibitem{Rationality2024} Thomas Hofweber, Peter Hase, Elias Stengel-Eskin et al. Are language models rational? The case of coherence norms and belief revision. \emph{arXiv:2406.03442}, 2024. \href{https://arxiv.org/abs/2406.03442}{https://arxiv.org/abs/2406.03442}.
+
+\bibitem{AGM1985} Carlos E. Alchourron, Peter Gardenfors, David Makinson. On the logic of theory change: Partial meet contraction and revision functions. \emph{Journal of Symbolic Logic} 50, 510-530, 1985. \href{https://doi.org/10.2307/2274239}{doi:10.2307/2274239}.
+
+\bibitem{Kadavath2022} Saurav Kadavath, Tom Conerly, Amanda Askell et al. Language Models (Mostly) Know What They Know. \emph{arXiv:2207.05221}, 2022. \href{https://arxiv.org/abs/2207.05221}{https://arxiv.org/abs/2207.05221}.
+
+\bibitem{LookingInward2024} Felix J Binder, James Chua, Tomek Korbak et al. Looking Inward: Language Models Can Learn About Themselves by Introspection. \emph{arXiv:2410.13787}, 2024. \href{https://arxiv.org/abs/2410.13787}{https://arxiv.org/abs/2410.13787}.
+
+\bibitem{IntrospectionCheck2026} Shashwat Singh, Tal Linzen, Shauli Ravfogel. Can LLMs Introspect? A Reality Check. \emph{arXiv:2605.26242}, 2026. \href{https://arxiv.org/abs/2605.26242}{https://arxiv.org/abs/2605.26242}.
+
+\bibitem{Turpin2023} Miles Turpin, Julian Michael, Ethan Perez et al. Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting. \emph{arXiv:2305.04388}, 2023. \href{https://arxiv.org/abs/2305.04388}{https://arxiv.org/abs/2305.04388}.
+
+\bibitem{Ganguli2023} Deep Ganguli, Amanda Askell, Nicholas Schiefer et al. The Capacity for Moral Self-Correction in Large Language Models. \emph{arXiv:2302.07459}, 2023. \href{https://arxiv.org/abs/2302.07459}{https://arxiv.org/abs/2302.07459}.
+
+\bibitem{Huang2023} Jie Huang, Xinyun Chen, Swaroop Mishra et al. Large Language Models Cannot Self-Correct Reasoning Yet. \emph{arXiv:2310.01798}, 2023. \href{https://arxiv.org/abs/2310.01798}{https://arxiv.org/abs/2310.01798}.
+
+\bibitem{MoralConvergence2025} Guangliang Liu, Haitao Mao, Bochuan Cao et al. On the Convergence of Moral Self-Correction in Large Language Models. \emph{arXiv:2510.07290}, 2025. \href{https://arxiv.org/abs/2510.07290}{https://arxiv.org/abs/2510.07290}.
+
+\bibitem{Values2026} Keqing Zhang, Jingyu Chen, Yufan Liu et al. Do LLMs Have Values? A Quantitative Analysis and Alignment Framework for Values in Large Language Models. \emph{arXiv:2609.16589}, 2026. \href{https://arxiv.org/abs/2609.16589}{https://arxiv.org/abs/2609.16589}.
+
+\bibitem{Archetypes2026} Tabia Tanzin Prama, Calla Glavin Beauregard, Christopher M. Danforth et al. Self-reported archetypes and behavioral failures in Large Language Models. \emph{arXiv:2609.15998}, 2026. \href{https://arxiv.org/abs/2609.15998}{https://arxiv.org/abs/2609.15998}.
+
+\bibitem{Story2026} Jorio Cocola, Lev McKinney, Harry Mayne et al. Story Imprinting: AI Assistants Absorb Traits from Human Characters They Resemble. \emph{arXiv:2609.10883}, 2026. \href{https://arxiv.org/abs/2609.10883}{https://arxiv.org/abs/2609.10883}.
+
+\bibitem{Sharma2023} Mrinank Sharma, Meg Tong, Tomasz Korbak et al. Towards Understanding Sycophancy in Language Models. \emph{arXiv:2310.13548}, 2023. \href{https://arxiv.org/abs/2310.13548}{https://arxiv.org/abs/2310.13548}.
+
+\bibitem{Greenblatt2024} Ryan Greenblatt, Carson Denison, Benjamin Wright et al. Alignment faking in large language models. \emph{arXiv:2412.14093}, 2024. \href{https://arxiv.org/abs/2412.14093}{https://arxiv.org/abs/2412.14093}.
+
+\bibitem{Hubinger2024} Evan Hubinger, Carson Denison, Jesse Mu et al. Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training. \emph{arXiv:2401.05566}, 2024. \href{https://arxiv.org/abs/2401.05566}{https://arxiv.org/abs/2401.05566}.
+
+\bibitem{Park2023} Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai et al. Generative Agents: Interactive Simulacra of Human Behavior. \emph{arXiv:2304.03442}, 2023. \href{https://arxiv.org/abs/2304.03442}{https://arxiv.org/abs/2304.03442}.
+
+\bibitem{Shinn2023} Noah Shinn, Federico Cassano, Ashwin Gopinath et al. Reflexion: language agents with verbal reinforcement learning. \emph{Advances in Neural Information Processing Systems 36}, 8634-8652, 2023. \href{https://doi.org/10.52202/075280-0377}{doi:10.52202/075280-0377}.
+
+\bibitem{Colas2020} Cedric Colas, Tristan Karch, Olivier Sigaud et al. Autotelic Agents with Intrinsically Motivated Goal-Conditioned Reinforcement Learning: a Short Survey. \emph{arXiv:2012.09830}, 2020. \href{https://arxiv.org/abs/2012.09830}{https://arxiv.org/abs/2012.09830}.
+
+\bibitem{Gabriel2020} Iason Gabriel. Artificial Intelligence, Values, and Alignment. \emph{Minds and Machines} 30, 411-437, 2020. \href{https://doi.org/10.1007/s11023-020-09539-2}{doi:10.1007/s11023-020-09539-2}.
+
+\bibitem{MachineEthicsSEP} Vincent C. Muller. Ethics of Artificial Intelligence and Robotics. \emph{The Stanford Encyclopedia of Philosophy}, 2026. \href{https://plato.stanford.edu/entries/ethics-ai/}{https://plato.stanford.edu/entries/ethics-ai/}.
+
+\bibitem{HadfieldMenell2016} Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel et al. Cooperative Inverse Reinforcement Learning. \emph{arXiv:1606.03137}, 2016. \href{https://arxiv.org/abs/1606.03137}{https://arxiv.org/abs/1606.03137}.
+
+\bibitem{OffSwitch2017} Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel et al. The Off-Switch Game. \emph{arXiv:1611.08219}, 2016. \href{https://arxiv.org/abs/1611.08219}{https://arxiv.org/abs/1611.08219}.
+
+\bibitem{Skills2026} Timothy Kassis, Vinayak Agarwal, Yuhuan He et al. Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents. \emph{arXiv:2609.00065}, 2026. \href{https://arxiv.org/abs/2609.00065}{https://arxiv.org/abs/2609.00065}.
+
+\end{thebibliography}

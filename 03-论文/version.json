@@ -1,0 +1,23 @@
+{
+  "title": "Reflective Commitment in Language-Model Agents: A Yangming-Inspired Research Agenda",
+  "version": "v0.2",
+  "date_display": "20 September 2026",
+  "submission_ready": false,
+  "authors_confirmed": true,
+  "new_experiments": false,
+  "date": "2026-09-20",
+  "authors": [
+    {
+      "name": "CongWang",
+      "affiliation": "ZhejiangLab"
+    }
+  ],
+  "stance_confirmed": true,
+  "funding": "No specific funding was received for this work.",
+  "competing_interests": "The author declares no competing interests.",
+  "arxiv_license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "repository_license": "All rights reserved; no general open-source or Creative Commons license granted.",
+  "repository": "https://github.com/calledice/llm-conviction-research",
+  "source_review_complete": false,
+  "arxiv_submitted": false
+}

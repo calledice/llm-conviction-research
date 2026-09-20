@@ -1,0 +1,613 @@
+[
+  {
+    "paragraph": 2,
+    "sha256": "08e309d408d4ec35781368c0432eb7cee387b568017feb9abbce54691b88c1be",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 3,
+    "sha256": "c05289f1d8e4cb185509720fa6d451430384752836e5d0d23e07e7c0550e9d4b",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 5,
+    "sha256": "55fc943ff2faafcb9daf3badbe69194eccb3ac81c0d46131eaa8d823368d9cf8",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 7,
+    "sha256": "95920e651b813ea352eb3b39a677c0f0779517d249f569984268d5f35fde2680",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 8,
+    "sha256": "5c6bb50531e41273d111be885329d752075af6c7b2e6d9d25917c92a71930319",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Ouyang2022",
+      "Bai2022",
+      "ClaudeCharacter"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 9,
+    "sha256": "8f1a1c39291b50c93bb69e29bb3b8dc9927341c7c8c327bb24ee441945664564",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 10,
+    "sha256": "e6455e501909a707252b84a8ce2f835db4ea250f3ffe1b191530fd123927f6d9",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "WangSEP"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 11,
+    "sha256": "6b95ea6ca0c1a238a6e57add7538a5bea1b26201d7d0265621f3c882e3bcfde2",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 14,
+    "sha256": "6a8d952f284bf94c70e7500324414eed3895e6dee89c452e97afa781543a8aa1",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "BeliefSEP"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 15,
+    "sha256": "4caba69fc32b1769817bdf2bffcbe3895f3a1cf4d20b74d9b1d292d5f75e6f73",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 16,
+    "sha256": "e8392f3513867d923f4f3dafc4679855a4b678011669f182ecff3092ebf52bc6",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Butlin2023",
+      "Chalmers2023"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 18,
+    "sha256": "78e1ec684c3047eefeee4369d3e3b507c3a2b82bdc08026d0192045b9d7e0f16",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 19,
+    "sha256": "9f57a3b94b67365c7fcd19f4d1be8de52baa534b1900041b399f8d7075120fac",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 20,
+    "sha256": "5538dac8f1eaa40bc6028d01706b43c9b33d436bbb5eac72faff60a07c9fc6f3",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 22,
+    "sha256": "55f7b58056461548b77952570c8fb13f2576b8879ae1f80c1dc1d0aebd2ea245",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 23,
+    "sha256": "0c785f69e01613adbc8ddb8fd6f4bddf0593efe68b61c841ca4e35366f9fe20e",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 24,
+    "sha256": "05db4a12d3029b3daae4012bd5ec235352c71242ed99f2c8c161aae73b010085",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 27,
+    "sha256": "45448d0c851a94463f73bf68f5911d59ba2d14641ffa09176fe477f78c772d47",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Li2023",
+      "Burns2023",
+      "Marks2024",
+      "Azaria2023",
+      "Zou2023"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 28,
+    "sha256": "79be24fefd1a0f220b8f497eb8e4c86b3bc8bcfd0ea75c71613ba641e4ece72c",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 29,
+    "sha256": "8947e956e81311ab6c75cb34e099eee2f0b392f8d34714423b0960778e6e9536",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "ModelEditing2024",
+      "Rationality2024",
+      "AGM1985"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 31,
+    "sha256": "3868c8be6780f82f441da570fdfe65a6a2a4fdf4cbae2281504f8a3d5087b3d4",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Kadavath2022",
+      "LookingInward2024"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 32,
+    "sha256": "93e40c85b2d738a2428104e6df30c50455bda1f348c5db81aaad6e0f6d2f6d00",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "IntrospectionCheck2026",
+      "Turpin2023"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 34,
+    "sha256": "c37bae5ba506213fcef0db6147ed17e6999f1a99e4f79322f2d6bfd6bc2ce21a",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Ganguli2023",
+      "Huang2023"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 35,
+    "sha256": "c2f452c4711d6b72ee5fe6766fcaf0951bee9f51e6d30817b37cf5bbe59de8c0",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "MoralConvergence2025"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 36,
+    "sha256": "b3c20f5977246745b0989913254a407ec81173de4f3783bd4591a1eec4f9bbb1",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Values2026",
+      "Archetypes2026",
+      "Story2026"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 38,
+    "sha256": "738f7172d96a2f7643aae055bc5b5a6375205b14f85920a2c6a166d314e19435",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Sharma2023",
+      "Greenblatt2024",
+      "Hubinger2024"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 39,
+    "sha256": "37e5392d3f1d46e4c1905be9fe138365d776277891373a58baf479b0a70ea95f",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Park2023",
+      "Shinn2023",
+      "Colas2020"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 41,
+    "sha256": "a93b1e77247d3e6cc454a7503836309ede0721d0bead587bbfd03cbf8fd0be61",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "WangSEP"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 42,
+    "sha256": "ad94afe3388496e88fd06fbe597e02ae4733814f6aac4380096532608ebd3f14",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 43,
+    "sha256": "dc08ba68d5a0dd6a96e29506fdfb4f15e1932c3d7b8244ad51c9e0d3df299e35",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 44,
+    "sha256": "d1512eb0b8ddb4da9ebe391e2b6d6e9865a19fcd47ec3a928ee91c46ec379fc9",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 45,
+    "sha256": "5e32dfbe81dcfcde6b463176f7ca50acbf0a3d9df98901ea0ec59ff01a228b15",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 47,
+    "sha256": "972ba62acf9155f085e54f3dd430cffabf456badd41365263e4c56849897d9ef",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 48,
+    "sha256": "9ff8b91c78e50abcc6e63ae95a7f73f8c86098a9306adf9a2b8e1b4282a8306e",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 49,
+    "sha256": "cdd466a200121fa8ebb50e8cf9273fae4815dcf7bd74d15249ef92b9fecb59e2",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 50,
+    "sha256": "b9ce8400655020e0df2ed5f457df5e10ff814c80196d03e69d37c6f5fe98fa41",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 51,
+    "sha256": "24a98d4c45314073db011e6f4dc508b91b330a00b1c69601841cf8f1dd18cbd6",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 52,
+    "sha256": "46ef3baa216ad827f1e88a817ab5b2a85a73080e6035a10f56bd8fb1a34ae91c",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 53,
+    "sha256": "8ee7bda7d41fa8121606034ccd481fb711ee0bcc5be701bb9dd830d53ed43bea",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 54,
+    "sha256": "3bd201fb468a14f0b9d160d4d53bed2dfca1e3bdd5c778d5b75887ee76a5db7e",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 56,
+    "sha256": "1ba696fd15795e55f8aab8f052cd2a1f652b979cb54a822b69a99dd6ce98102e",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 57,
+    "sha256": "20869b20ee29a6c7256bf8d388cf1c3136055be8b4c4500f7dfecfa3bec05fe2",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 58,
+    "sha256": "fa0aacc15f5c5884851cba36a2ce477da2960511c4b9947a87aa49cd1b9baec8",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 60,
+    "sha256": "a9f533d6939896d187fdb1cabde66c2eda2c4617233a391c96671dc8d3be6a10",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 61,
+    "sha256": "65b4c0facff16d9b8414a6315e26426c3097f5f572d70949f2f3afca6f5ebc6c",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 62,
+    "sha256": "2a72066c59d9584df1f9e9321a4ea297e5b06aa80cbc1189533860ac5d205f9e",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 63,
+    "sha256": "29986110ddddd3ca89ef8b000c8f7c19a9f3c3a328b59c8c95030af7a5f4997e",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 64,
+    "sha256": "9af9cef0e068c34eb588e383fa39fb31d7d6f97fc6e28563aacef0ce359372c3",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Park2023",
+      "Shinn2023",
+      "Colas2020"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 67,
+    "sha256": "c6138fb678818ae9f7990ea181f337db4d3a585fc4156373186bd3fef4771aec",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 68,
+    "sha256": "d8389614c7c3bbbb3e23368ba02eaaffef4d9fb6fd6ae449700ee4e1f4a26b00",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 69,
+    "sha256": "30d9e527c0804b3e6c3d134369ae971b69a459df1b0d78408bfad05b0e0ddf36",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 71,
+    "sha256": "59c4670af6f3f6ccc27e61ab73a82b322a364b5a4989e35141979c43503e4fe1",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 72,
+    "sha256": "aa47899e1c01351738486f299f7040e155e97337dbe4108666fb7fc583db9ad5",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 73,
+    "sha256": "880786c8e40bbcc2d18270bcbe8c15a0032f03fda6db41d866ee3fc958e38d8e",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 74,
+    "sha256": "3f29de8851585cbbd7a0b7466bc0dbd1bb4be87a98cec955719e2222a58c98cd",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 76,
+    "sha256": "fc5b47cad55706967d3633b9da2c96c8312f0a46c4bf826fb79f2ba2009ac386",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 77,
+    "sha256": "a577090835391b3237b8a74095a3ccbc9df202b49a2983dbca07e52a5c07c5e8",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 78,
+    "sha256": "fc8ac12e621eabbebe56dc15235dbabdb185aa35c65b41c8cfa41ebb2238631c",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 80,
+    "sha256": "b6a9976978d2277c9ffecd7f4d2ed9251dd9c416dc7708c0952a271a8b6dac2d",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 81,
+    "sha256": "f7523decffc3feb212bf21a4977abad0f3c54814cd84844624ba0fd121d744bd",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 82,
+    "sha256": "e87427e716ca7c27758332b7aa7de19250427a6979b9ac20b957f6bb0e6e8847",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 84,
+    "sha256": "84e7984de30557212583eefb1c20f7edfbb0cbdd6332406556a34454d0586cc2",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 85,
+    "sha256": "5e749ce477ab31aaf1cf4416ef0062553330731aa1a39e3d094c898a618a5c6a",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Gabriel2020",
+      "MachineEthicsSEP"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 86,
+    "sha256": "e302b5456a8c16a8fc8aea5b29d9948046bcaf50749150658677965986d074d5",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "HadfieldMenell2016",
+      "OffSwitch2017"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 87,
+    "sha256": "aa7f0b86de93ab07bb913a5f022d0abb65b84e5e00f0f1cd87cda62486c02457",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 89,
+    "sha256": "5b75c895c12144d30b828cce7cb85a804b92f8e737b628d20d2c0dee174c10ba",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 90,
+    "sha256": "3b400ff65f6e50ef9ee6d4cea5382fd0fdbbb9b50f265ae0bbf560008d96aa05",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 91,
+    "sha256": "ca67ba68543cf589fa46f22ba43b2a71cc5d75559196bc233505f6393cb5d0c1",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 92,
+    "sha256": "787c4d3942eb00bbae472c3eb07664da834a549e29014ea291b1ae850ac9ae25",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 93,
+    "sha256": "9eba6af48719e6e3206490566ee450e511510d24f55b206c706bad09286fd1d5",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 94,
+    "sha256": "66b17bf81342d400cc12f872b9b15ab0164f89b2dd34db626c2a267095c88446",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 96,
+    "sha256": "b88cf8f3bdc3de0a02ef79f49bd5f792cd19797cd8f7376a77457f98c12f3160",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 97,
+    "sha256": "d1f9312050a13861af0d93b24ee5b0359171b1b3991f3aa698fe6d88df5162c1",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 99,
+    "sha256": "5979d1f2feca2c8580915ad21a1ad30960ebc0b376eb974c0466a8ccd11e912d",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 100,
+    "sha256": "8a60f66f917f1fa307be35d542e740a1d1035a8c81aa6eb6433122bc1b78bdba",
+    "kind": "literature_supported_paragraph",
+    "evidence_keys": [
+      "Skills2026"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 101,
+    "sha256": "074564257ca479693ba524bb316da7ac3884869d8b96df97c72eb8059f670082",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 103,
+    "sha256": "31812a623b990284e62afb0d4bfb18f65587c574306457b778af09ae9ced2280",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 104,
+    "sha256": "99dc7a6270cb6e4889a2f50c8581e24fa7ea641f85cc35f305a1030aac3f5c63",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  },
+  {
+    "paragraph": 105,
+    "sha256": "aa308844f08778cc078ecb8661615df25f832e9924e3f4066f03b7217d836a04",
+    "kind": "disclosure_or_proposal_or_argument",
+    "evidence_keys": [],
+    "human_reviewed": false
+  }
+]

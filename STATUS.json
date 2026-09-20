@@ -1,0 +1,13 @@
+{
+  "version": "v0.2",
+  "date": "2026-09-20",
+  "new_experiments": false,
+  "submission_ready": false,
+  "author_identity_confirmed": true,
+  "core_position_confirmed": true,
+  "human_source_verification_complete": false,
+  "license": "All rights reserved",
+  "arxiv_license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "arxiv_id": null,
+  "github_repository": "https://github.com/calledice/llm-conviction-research"
+}
